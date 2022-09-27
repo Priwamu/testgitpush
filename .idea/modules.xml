@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/mongodb.iml" filepath="$PROJECT_DIR$/.idea/mongodb.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/originmongo.iml" filepath="$PROJECT_DIR$/.idea/originmongo.iml" />
+>>>>>>> 60e7cfd (filter data in mongodb &pycharm)
     </modules>
   </component>
 </project>
